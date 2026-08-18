@@ -21,16 +21,3 @@ A modern responsive landing page built using **HTML, CSS and JavaScript**.
 2. CSS3
 3. JavaScript
 
-## Screenshots
-
-### Home Page
-![Home Page](images/hero.jpg)
-
-### About Section
-![About](images/about.jpg)
-
-### Projects
-![Project 1](images/project1.jpg)
-![Project 2](images/project2.jpg)
-![Project 3](images/project3.jpg)
-![Project 4](images/project4.jpg)
